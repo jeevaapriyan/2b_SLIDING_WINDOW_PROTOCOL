@@ -59,8 +59,8 @@ s.close()`
 ```
 
 ## OUPUT:
-<img width="510" height="188" alt="Screenshot 2026-02-06 103236" src="https://github.com/user-attachments/assets/969159af-61d8-4b48-91dc-14878a80383c" />
-<img width="528" height="187" alt="Screenshot 2026-02-06 103314" src="https://github.com/user-attachments/assets/98c8b2af-e8bb-4763-83a7-9d9c4c5038f1" />
+![alt text](server.png)
+![alt text](client.png)
 
 
 
